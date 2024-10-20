@@ -1,0 +1,4 @@
+1. Pizza - $10
+2. Pasta - $8
+3. Lasagna - $12
+4. Risotto - $14
